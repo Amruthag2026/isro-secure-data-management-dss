@@ -16,7 +16,7 @@
 
 Placify is a secure, role-based placement management platform connecting **Students**, **Companies**, and **Admins**. It handles the full placement lifecycle — registration, resume screening, job postings, applications, and approvals — behind an OTP-secured, role-scoped access layer, with an admin-facing Decision Support System for placement analytics.
 
-**Team:** Amarthya B S, Amrutha G, Anupriya K V, Bhavana P
+ Amrutha G
 
 ---
 
@@ -148,7 +148,7 @@ The app will start on `http://127.0.0.1:5000` (or the port Flask reports). The S
 
 ## My Contribution
 
-Worked as part of a four-person team during the ISRO internship on:
+Worked as part of a six-person team during the ISRO internship on:
 - **OTP-based MFA and RBAC implementation** securing the multi-user platform across Student, Company, and Admin roles
 - The resume parsing pipeline (text extraction, field detection, regex-based structuring)
 - The skill recommendation logic mapping current skills to related/missing skills
